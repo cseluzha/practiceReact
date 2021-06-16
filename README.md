@@ -4,7 +4,7 @@ This repository contains several apps to improve the understanding and performan
 
 # Getting Started with Create React App with Typescript
 
-`npx create-react-app my-app --template react-native-template-typescript`
+`npx create-react-app my-app --template typescript`
 
 ## Learn More
 
