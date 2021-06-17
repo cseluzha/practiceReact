@@ -1,8 +1,7 @@
-import React from 'react'
 import ReactDOM from 'react-dom';
-
-const saludo = <h1>Hola Mundo</h1>;
+import FirtsApp from './compontents/FirtsApp';
+import './styles/index.css'
 
 const divRoot = document.querySelector('#root');
 
-ReactDOM.render(saludo, divRoot);
+ReactDOM.render(<FirtsApp />, divRoot);
